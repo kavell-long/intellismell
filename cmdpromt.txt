@@ -1,0 +1,3 @@
+cd \Users\Kavell Long\OneDrive - University of South Wales\Desktop\Project\testdataset
+
+python serial-data-collect-csv.py -p COM8 -b 115200 -d dataset -l inside-box-empty
